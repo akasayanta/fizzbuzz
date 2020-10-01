@@ -8,7 +8,7 @@ Assignment:
 Write a program that prints the numbers from 1 to 100. But for 
 multiples of three print “Fizz” instead of the number and for 
 the multiples of five print “Buzz”. For numbers which are multiples 
-of both three and five print “FizzBuzz”.
+of both three and five print “FIZZBUZZ”.
 
 We will use a variation of this test in which the last number of 
 the series isn't necessarily 100, and the two numbers being tested 
@@ -32,7 +32,7 @@ Buzz
 Fizz
 13
 14
-FizzBuzz
+FIZZBUZZ
 16
 17
 Fizz
